@@ -1,0 +1,2 @@
+rootProject.name = "Gitprojectpart2"
+include ':app'
